@@ -1,0 +1,14 @@
+C:\DotNetProjects\MyJobs\JobApi\bin\Debug\netcoreapp2.1\JobApi.deps.json
+C:\DotNetProjects\MyJobs\JobApi\bin\Debug\netcoreapp2.1\JobApi.runtimeconfig.json
+C:\DotNetProjects\MyJobs\JobApi\bin\Debug\netcoreapp2.1\JobApi.runtimeconfig.dev.json
+C:\DotNetProjects\MyJobs\JobApi\bin\Debug\netcoreapp2.1\JobApi.dll
+C:\DotNetProjects\MyJobs\JobApi\bin\Debug\netcoreapp2.1\JobApi.pdb
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.RazorAssemblyInfo.cache
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.RazorAssemblyInfo.cs
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.AssemblyInfoInputs.cache
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.AssemblyInfo.cs
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.RazorTargetAssemblyInfo.cache
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.dll
+C:\DotNetProjects\MyJobs\JobApi\obj\Debug\netcoreapp2.1\JobApi.pdb
